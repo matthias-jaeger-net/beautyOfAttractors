@@ -1,6 +1,7 @@
 # beautyOfAttractors 
 > A personal experiment with the goal of creating a video animation out of the processing ide.
 
+![beautyOfAttractors](/Capture.png)
 
 ## Tools used
 * https://processing.org/
