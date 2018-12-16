@@ -9,16 +9,22 @@
 * http://ffmpeg.org/
 
 ## Main Program
+A Particle is a black doto on the screen. I has the ability to move and recieve forces. There are two types of Particels in this program. Static attractors and moving particles. I store them in two global arrays.
 
 ```java
-...
-Sketch simplyfied
-...
-// Two types of Particels live on the screen 
 Particle[] attractors = new Particle[30];
 Particle[] particles = new Particle[7600];
-...
+```
+In the ``setup()`` function
 
+```java
+Particle[] attractors = new Particle[30];
+Particle[] particles = new Particle[7600];
+```
+
+
+
+```java
 void draw() {
   ...
   // Loop all particles
