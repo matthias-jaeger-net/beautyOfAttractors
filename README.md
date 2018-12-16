@@ -69,9 +69,9 @@ class Particle {
     pos.add(vel);
     // Reset acceleration
     acc.mult(0);
-}
-// Draws the particle
-void render() {
+ }
+ // Draws the particle
+ void render() {
     point(pos.x, pos.y);
   }
 }
