@@ -3,5 +3,5 @@
 
 
 ## Tools used
-https://processing.org/
-https://github.com/hamoid/video_export_processing
+* https://processing.org/
+* https://github.com/hamoid/video_export_processing
